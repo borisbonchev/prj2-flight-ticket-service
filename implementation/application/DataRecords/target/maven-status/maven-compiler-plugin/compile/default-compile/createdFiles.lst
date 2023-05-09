@@ -1,0 +1,3 @@
+module-info.class
+com\mycompany\datarecords\FlightData.class
+com\mycompany\datarecords\RouteData.class
